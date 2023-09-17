@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehan Biswas</h1>
+<h1 align="center">Hi 👋, Welcome to my Bio! </h1>
 <h3 align="center">A passionate AI and NLG Explorer with usage of Deep Generative Algorithms. Follow my instagram link to experience some of my creations in Image Stylization with Generative AI.</h3>
 
 - 🔭 I’m currently working on **Various Generative AI problems**
