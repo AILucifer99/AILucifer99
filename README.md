@@ -1,89 +1,134 @@
 <h1 align="center">👋 Hi, I'm Snehan Biswas</h1>
-<h3 align="center">🚀 GenAI Architect | AI Engineer | Deep Generative AI Enthusiast</h3>
+<h3 align="center">🚀 GenAI Architect | Agentic AI Specialist | Building Scalable Intelligent Systems</h3>
 
 <p align="center">
-Building intelligent systems with <strong>Generative AI, Agentic Workflows, and Scalable ML Pipelines</strong>
+Designing <strong>next-generation AI systems</strong> using Generative AI, RAG, and Multi-Agent Architectures
 </p>
 
 ---
 
-## 🔍 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **advanced Generative AI and Agentic RAG systems**
-- 🌱 Continuously learning and exploring **PyTorch, LangChain, JAX, and Multimodal AI**
-- 👯 Open to collaborating on **Neural Style Transfer, Generative Modeling, and AI-driven applications**
-- 💬 Ask me about **LLMs, TensorFlow, OpenCV, Hugging Face, LangChain, NLP, and MLOps**
-- 📫 Reach me at **snehan.biswas.1@gmail.com**
+I specialize in building **production-grade Generative AI systems**, with a strong focus on:
+
+- 🔹 Agentic AI workflows (LangGraph, LangChain)
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 Multimodal AI (Text + Image + Video understanding)
+- 🔹 Scalable AI pipelines using Cloud (AWS, Azure, GCP)
+
+Currently working on **enterprise-level AI systems** combining **LLMs, vector databases, and multi-agent orchestration**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 1. Agentic RAG System (DataOps + ITOps Intelligence)
+**Tech Stack:** LangGraph, LangChain, Azure OpenAI, Python  
+
+- Built a **multi-agent system** with:
+  - Query Router Agent  
+  - DataOps Agent  
+  - ITOps Agent  
+- Implemented **dual vector databases** for contextual retrieval  
+- Designed **intelligent routing + re-ranking pipeline**  
+- Supports **PDF ingestion and semantic search**
+
+👉 *Impact:* Improved response accuracy and domain-specific reasoning
+
+---
+
+### 🔹 2. Multimodal Video RAG Pipeline
+**Tech Stack:** Azure OpenAI (GPT-4o), Azure AI Search, LlamaIndex  
+
+- Extracts **text + image embeddings from videos**
+- Performs **semantic grouping of frames**
+- Detects **code snippets using OCR (EasyOCR + Regex)**
+- Generates **structured PDF documentation (ReportLab)**  
+
+👉 *Impact:* Converts raw videos into **searchable knowledge systems**
+
+---
+
+### 🔹 3. Image Similarity & Grouping Pipeline
+**Tech Stack:** Vertex AI, BigQuery, Cloud Functions  
+
+- Built an **image clustering pipeline**
+- Uses **embedding-based similarity detection**
+- Automatically groups visually similar assets  
+
+👉 *Impact:* Enables **large-scale image organization and retrieval**
+
+---
+
+### 🔹 4. AWS CloudWatch Log Analysis Agent
+**Tech Stack:** LangChain AWS, Claude (Bedrock), Python  
+
+- AI agent to **analyze logs and trace errors automatically**
+- Uses **LLM reasoning on CloudWatch logs**
+- Supports **root cause analysis workflows**
+
+👉 *Impact:* Reduces manual debugging effort in cloud environments
+
+---
+
+### 🔹 5. A2A Protocol-Based Multi-Agent Workflow
+**Tech Stack:** FastAPI, LangGraph, AWS S3  
+
+- Built **Agent-to-Agent communication system**
+- Supports:
+  - Multi-file uploads  
+  - Stateful interaction history (stored in S3)  
+  - Admin monitoring dashboard  
+- Integrated **JWT auth + role-based access**
+
+👉 *Impact:* Production-ready **multi-agent orchestration framework**
+
+---
+
+## 🧩 Core Skills
+
+- **Generative AI:** GPT, Claude, Multimodal Models  
+- **RAG Systems:** Hybrid search, re-ranking, chunking strategies  
+- **Agentic AI:** LangGraph workflows, tool-using agents  
+- **Computer Vision:** OpenCV, OCR, image embeddings  
+- **Backend:** FastAPI, Flask  
+- **Cloud:** AWS, Azure AI, GCP  
+- **Databases:** MongoDB, Vector DBs, SQL  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/snehan-biswas-61429a1b4/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/the__illusion__artist/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-## 🧠 Expertise & Focus Areas
-
-- Generative AI (Text, Image, Multimodal)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems (LangGraph, LangChain)
-- Computer Vision & Image Processing
-- Natural Language Processing (NLP)
-- Cloud AI (AWS, GCP, Azure AI)
-- Scalable AI Pipelines & MLOps
-
----
-
-## ⚙️ Tech Stack & Tools
-
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-</p>
-
----
-
-## 🎨 Generative AI Showcase
-
-Explore my work in **AI-powered image stylization and generative creativity** on Instagram:  
-👉 [@the__illusion__artist](https://www.instagram.com/the__illusion__artist/)
-
----
-
-## 📈 SEO Keywords
-
-`Generative AI Engineer` • `Agentic AI Developer` • `LangChain Expert` • `RAG Systems` • `Multimodal AI` • `Deep Learning Engineer` • `Computer Vision Developer` • `AI Architect India`
+- 🔗 LinkedIn: https://www.linkedin.com/in/snehan-biswas-61429a1b4/  
+- 🎨 Instagram (AI Art): https://www.instagram.com/the__illusion__artist/  
+- 📧 Email: snehan.biswas.1@gmail.com  
 
 ---
 
 ## 🚀 Vision
 
-To design and build **next-generation AI systems** that are:
-- Context-aware  
-- Scalable  
-- Explainable  
-- Human-aligned  
+To build **intelligent, autonomous AI systems** that:
+- Understand context deeply  
+- Scale seamlessly  
+- Deliver real-world impact  
 
 ---
 
 <p align="center">
-⭐️ If you like my work, consider giving a star to my repositories!
+⭐ If you find my work interesting, feel free to explore and contribute!
 </p>
